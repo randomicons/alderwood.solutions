@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alderwood.solutions/static/css/main.f409c74d.chunk.css",
+    "main.js": "/alderwood.solutions/static/js/main.75c1b1c3.chunk.js",
+    "main.js.map": "/alderwood.solutions/static/js/main.75c1b1c3.chunk.js.map",
+    "runtime-main.js": "/alderwood.solutions/static/js/runtime-main.789dec0f.js",
+    "runtime-main.js.map": "/alderwood.solutions/static/js/runtime-main.789dec0f.js.map",
+    "static/js/2.a2ebcadc.chunk.js": "/alderwood.solutions/static/js/2.a2ebcadc.chunk.js",
+    "static/js/2.a2ebcadc.chunk.js.map": "/alderwood.solutions/static/js/2.a2ebcadc.chunk.js.map",
+    "index.html": "/alderwood.solutions/index.html",
+    "precache-manifest.04b774718019847ae33f9c5afa3919fb.js": "/alderwood.solutions/precache-manifest.04b774718019847ae33f9c5afa3919fb.js",
+    "service-worker.js": "/alderwood.solutions/service-worker.js",
+    "static/css/main.f409c74d.chunk.css.map": "/alderwood.solutions/static/css/main.f409c74d.chunk.css.map",
+    "static/js/2.a2ebcadc.chunk.js.LICENSE.txt": "/alderwood.solutions/static/js/2.a2ebcadc.chunk.js.LICENSE.txt",
+    "static/media/App.module.scss": "/alderwood.solutions/static/media/home.7d6a3cd3.svg",
+    "static/media/joustr.png": "/alderwood.solutions/static/media/joustr.cbd2767d.png",
+    "static/media/quotr.png": "/alderwood.solutions/static/media/quotr.5aa85cd5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.789dec0f.js",
+    "static/js/2.a2ebcadc.chunk.js",
+    "static/css/main.f409c74d.chunk.css",
+    "static/js/main.75c1b1c3.chunk.js"
+  ]
+}
